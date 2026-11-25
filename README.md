@@ -5,7 +5,7 @@
 
 **Étude de cas complète et graphiques interactifs :** [portfolio-ay-kh.netlify.app/project-data-monitor](https://portfolio-ay-kh.netlify.app/project-data-monitor.html)
 
-![Dashboard Power BI](visuels/dm-dashboard.webp)
+![Dashboard Power BI](https://portfolio-ay-kh.netlify.app/assets/img/dm-dashboard.webp)
 
 ## En chiffres
 
@@ -39,12 +39,14 @@
 
 ## Livrables
 
+À télécharger depuis le portfolio :
+
 | Fichier | Contenu |
 |---|---|
-| [`livrables/data-monitor-rapport.pdf`](livrables/data-monitor-rapport.pdf) | Rapport d'analyse (5 pages) |
-| [`livrables/data-monitor-slides.pdf`](livrables/data-monitor-slides.pdf) | Slides de soutenance (11 slides) |
-| [`livrables/data-monitor-dashboard.pdf`](livrables/data-monitor-dashboard.pdf) | Export du dashboard |
-| [`livrables/data-monitor-dashboard.pbix`](livrables/data-monitor-dashboard.pbix) | Fichier Power BI Desktop |
+| [`data-monitor-rapport.pdf`](https://portfolio-ay-kh.netlify.app/assets/docs/data-monitor-rapport.pdf) | Rapport d'analyse (5 pages) |
+| [`data-monitor-slides.pdf`](https://portfolio-ay-kh.netlify.app/assets/docs/data-monitor-slides.pdf) | Slides de soutenance (11 slides) |
+| [`data-monitor-dashboard.pdf`](https://portfolio-ay-kh.netlify.app/assets/docs/data-monitor-dashboard.pdf) | Export du dashboard |
+| [`data-monitor-dashboard.pbix`](https://portfolio-ay-kh.netlify.app/assets/docs/data-monitor-dashboard.pbix) | Fichier Power BI Desktop |
 
 ## Équipe
 
